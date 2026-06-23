@@ -12,6 +12,16 @@ Supports **QBCore**, **ESX**, **Ox Inventory**, and **Ox Lib**.
 *   **Multiple View Modes:** Configurable camera angles (Chest, Eyes/FPS, Third Person).
 *   **Rank Restrictions:** Restrict panel access to specific grades (e.g., Sergeant+).
 
+# Preview
+<img width="1920" height="1080" alt="20260623090312_1" src="https://github.com/user-attachments/assets/fc21153e-c02f-4934-b362-f62758da3cf4" />
+<img width="1920" height="1080" alt="20260623085056_1" src="https://github.com/user-attachments/assets/ceb7a180-6194-4d12-b2ae-1727a376e885" />
+<img width="1920" height="1080" alt="20260623084537_1" src="https://github.com/user-attachments/assets/c0518617-9248-4208-acd6-6bbdfb939829" />
+<img width="1920" height="1080" alt="20260623084523_1" src="https://github.com/user-attachments/assets/31bb2542-94aa-495f-8acf-47a1cbb0b1dc" />
+<img width="1920" height="1080" alt="20260623084516_1" src="https://github.com/user-attachments/assets/7e1b33c9-cab9-4442-9d96-4b2ef892cf06" />
+<img width="1920" height="1080" alt="20260623084510_1" src="https://github.com/user-attachments/assets/45f69c6e-203d-4c89-a379-d499ed056eb6" />
+<img width="1920" height="1080" alt="20260623084505_1" src="https://github.com/user-attachments/assets/64d538a4-5d3b-41d5-be34-676783e84fd3" />
+<img width="1920" height="1080" alt="20260623084459_1" src="https://github.com/user-attachments/assets/a362f80a-30d6-46a6-a647-81bd6a3d8b00" />
+
 ---
 
 ## Dependencies
