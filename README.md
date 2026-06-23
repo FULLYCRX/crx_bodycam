@@ -1,4 +1,4 @@
-# crx_bodycam (v1.0)
+# CRX Bodycam & Panel
 **Author:** I_AM_FULLYCRX / fullcrxstiano_7  
 **Version:** 1.0.0
 
