@@ -123,3 +123,7 @@ INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 ## Troubleshooting
 * {content: }"Script Error: ox_lib not found": You must install and start ox_lib."Access Denied": Check your job grade in the database database vs the number in config.lua.Camera is underground? 
 * Ensure OneSync is enabled on your server. The script attempts to teleport you to the target to load their entity; if OneSync is off, this may fail.
+
+# Support
+[I_AM_FULLYCRX Official Discord](https://discord.gg/6QchSKDY7j)
+[Iron Justice Roleplay Official Discord](https://discord.gg/YJXZagSzh7)
